@@ -1,4 +1,50 @@
+# JavaScript Array Homework Exercises
 
+When you need to keep track of many values of the same kind (e.g, book titles, favorite movies, groceries to buy), it makes more sense to create a single variable that can hold multiple values.  In this homework, you are going to practice the basics of creating **arrays**, using JavaScript as a programming language, by completing problems that will challenge your knowledge of core princples. 
+
+## Objectives 
+
+- Practice writing arrays
+- Use indexing to access individual locations in an array
+- Update an array
+- Delete an element from an array
+- Iterate through arrays using for-loops
+- Iterate through arrays using while-loops
+
+
+## Instructions 
+
+- **Fork** this repo to your account by clicking on the **fork** Button at the top of this page. 
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
+
+*A **fork** is a copy of this repository. This forked repository will appear on your github account.*
+
+- Find the repository on *YOUR* account (ie yourUserName/js-hw-arrays) and click on the green `Code` button at the top of the page.
+
+![](./images/githubCodeButton.png)
+
+- Copy the path in the dialoge box
+- Navigate to a location on **your local computer in VSCode** where you keep your homework 
+- Clone this repsository by typing the following command in your terminal
+
+```
+clone [`path that you just copied`]
+```
+
+For example: 
+
+```bash 
+clone https://github.com/DigitalCraftsStudents/js-hw-arrays.git
+```
+
+- Navigate into the folder titled `js-hw-arrays`
+- Open the file called `homework.js` and solve the lab problems 
+- To run a file javascript file using node, you can run it from your terminal like this:
+
+```bash
+$ node loops.js
+```
 
 #### 1. Sum the Numbers
 Find the sum of all elements in an array and print to the console.
