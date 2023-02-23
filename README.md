@@ -84,8 +84,22 @@ const positive = [34, -56, 16, 23, -4, -6, -8, 12, 11, 78, -3, -2, 5, -44 ]
 For the given array of numbers, **create a new array** which contains every number in the given array which is positive.
 
 ```js 
+
 const positive2 = [34, -56, 16, 23, -4, -6, -8, 12, 11, 78, -3, -2, 5, -44 ]
 ```
+
+#### Given an array of strings, print the ones that start with the letter 'A'. 
+
+```js 
+const strings = ['Apple', 'Banana', 'Apricot', 'Cherry', 'Avocado'];
+```
+#### Given an array of strings, print the longest one.
+
+```js 
+const strings = ['short', 'longer', 'longest', 'medium'];
+```
+
+
 #### 7. Multiply a array
 For the given array of numbers, and a factor of 5, **create a new array** consisting of each of the numbers in the array multiplied by the factor. Print this array.
 
