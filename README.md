@@ -136,7 +136,8 @@ Calculate the result of adding the two matrices. The number in each position in 
 and
 
 ```text
-5 2 1 0 
+5 2 
+1 0 
 ```
 
 results in
